@@ -22,10 +22,5 @@
 
 <br><br>
 
-## 📌 핵심 포인트 및 시연 영상
-![Image](https://youtu.be/Nn28v8lRLn0)
-
-<br>
-
 **시연 영상** [https://youtu.be/iVq2nrFWF68](https://youtu.be/Nn28v8lRLn0)
 
